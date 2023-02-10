@@ -1,1 +1,0 @@
-Se pudo realizar el commit ya que añadimos un archivo en la carpeta, y eso sì representa un cambiò para el repositorio
