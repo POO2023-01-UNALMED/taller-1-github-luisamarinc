@@ -1,3 +1,9 @@
 Luisa Marín
 21 años
-Aspiro aprender muchoi más y reforzar mis conocimientos
+Aspiro aprender mucho más y reforzar mis conocimientos
+
+Sí se pudo realizar el commit  ya que la carpeta no estaba vacía y tenía un archivo, lo cual sí se considera un cambio en git.
+NOTA: Hice el revert de los commits, porque estoy terminando el taller desde mi casa y al clonar el repositorio, se descargaron todos los cambios y por tanto, no salía el conflicto del punto 13.
+
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+Porque se pueden generar conflictoa a la hora de estar trabjando sobre un mismo archivo desde diferentes ramas o repositorios locales, es mejor revisar qué cambios hay primero en la nube para bajarlos antes de hacer un push.
