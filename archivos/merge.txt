@@ -1,0 +1,3 @@
+Sí se pudo realizar el commit  ya que la carpeta no estaba vacía y tenía un archivo, lo cual sí se considera un cambio en git.
+
+NOTA: Hice el revert de los commits, porque estoy terminando el taller desde mi casa y al clonar el repositorio, se descargaron todos los cambios y por tanto, no salía el conflicto del punto 13.
